@@ -6,7 +6,7 @@ This project includes hands-on SQL scripts that demonstrate core and advanced My
 
 Creating and modifying tables (ALTER, ADD, DROP)
 
-Data insertion, updates, and deletion
+Data insertion, updates, and deletion 
 
 Handling NULL and using COALESCE()
 
